@@ -1,2 +1,2 @@
 # praticando_javascript
-Aprendendo códios de JS
+Aprendendo códigos de JS
