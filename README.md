@@ -1,2 +1,2 @@
 # praticando_javascript
-Introdução ao JavaScript
+Aprendendo códios de JS
